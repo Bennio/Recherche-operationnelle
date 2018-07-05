@@ -5,19 +5,19 @@
 //       IMPLEMETATION DE L'ALGORITHME FORD-FULKERSON				//
 //                    (FLOT MAXIMAL) 								//
 //																	//
-//       AUTEURS: 													//
-//				1- BIAKOTA BOMBIA Herbert Cephas - P21				//
-//				2- MILORME Rubens - P21								//
-//				3- ELIODOR Ednalson Guy Mirlin - P21				//
+//       GROUPE: ELITE												//
+//				1- BENDY Latortue - P22								//
+//				2- MARTIN CECE Théa - P22							//
+//				3- MICHAEL Lewis Kouamen - P22						//
 //																	//
-//                     FEVRIER 2017									//
+//                     												//
 //																	//
 //******************************************************************//
 
 import java.util.Scanner;
 import java.io.*;
 
-public class Test {
+public class Noeud {
 
 	 
     public static void main (String[] args) throws java.lang.Exception, FileNotFoundException
